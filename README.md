@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xenochem
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning python
+- 🌱 I’m currently on a learning path full full stack developer
 - 💞️ I’m looking to collaborate on any projects that I can
-- 📫 How to reach me @xenochem on twitter
+- 📫 How to reach me on twitter @xenochem
 
 <!---
 xenochem/xenochem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
