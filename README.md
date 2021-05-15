@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xenochem
 - 👀 I’m interested in learning how to code
-- 🌱 I’m currently on a learning path full full stack developer
+- 🌱 I’m currently on a learning path of a blockchain developer
 - 💞️ I’m looking to collaborate on any projects that I can
 - 📫 How to reach me on twitter @xenochem
 
